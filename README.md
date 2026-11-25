@@ -59,6 +59,7 @@ Git · GitHub · Postman · Swagger · GraphQL · WordPress
 - End-to-end doctor and hospital management
 - Appointment scheduling and booking
 - Role-based access control and JWT authentication
+- Real time communication and notification, payment and refund 
 
 **How it's built:** Docker-based microservices with Nginx as reverse proxy and API gateway. Services communicate through gRPC, secured with mutual TLS (mTLS) certificates, and through message queues.
 
